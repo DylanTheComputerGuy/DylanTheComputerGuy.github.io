@@ -2,7 +2,7 @@
   "name": "Mocha Test",
   "version": "1.0.0",
   "description": "",
-  "main": "tests.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
